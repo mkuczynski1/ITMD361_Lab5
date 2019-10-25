@@ -1,0 +1,23 @@
+body {
+	background-image: url(../media/space.jpg);
+	color: white;
+	margin-top: 5%;
+	font-family: "Open Sans", sans-serif;
+	font-size: 0.9em;
+}
+img {
+	width: 180px;
+	height: 180px;
+}
+th{
+	border: 1px	solid white;
+}
+th:hover {
+	background-color: #FFF8DC;
+	color:black;
+}
+#data {
+	margin: auto;
+	margin-bottom: 5px;
+	border-collapse: collapse;
+}
